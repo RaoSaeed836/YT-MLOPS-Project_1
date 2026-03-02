@@ -6,7 +6,7 @@ plotly
 seaborn
 scikit-learn
 pymongo
-from_root
+from_root # ya project ka root tk phoch ky koe file or folder bnanay ka ka mko mange krta ha 
 dill
 certifi
 PyYAML
